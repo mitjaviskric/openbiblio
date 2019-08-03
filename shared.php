@@ -133,7 +133,7 @@ $trans["helpHeaderCloseWin"]       = "\$text='Zapri okno';";
 $trans["helpHeaderContents"]       = "\$text='Vsebina';";
 $trans["helpHeaderPrint"]          = "\$text='Natisni';";
 
-$trans["catalogResults"]           = "\$text='Zadetkiadetki';";
+$trans["catalogResults"]           = "\$text='Zadetki';";
 $trans["Revise Page"]              = "\$text='Osveži stran';";
 $trans["wiki updates to this page"] = "\$text='wiki novosti za to stran';";
 
