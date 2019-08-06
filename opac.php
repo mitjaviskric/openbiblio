@@ -64,7 +64,7 @@ $trans["loginFormLogin"]           = "\$text = 'Prijava';";
 $trans["MemberID is required."]    = "\$text = 'Številka izkaznice je zahtevana.';";
 $trans["Secret Word is required."] = "\$text = 'Geslo je zahtevano.';";
 $trans["No Memberfield 'secret' defined. Member-Login is deactivated!"]	= "\$text = 'Ni nastavljenega gesla. Prijava je onemogočena!';";
-$trans["Invalid Logon. Maybe you don't have a Secret Word? Please ask the Staff!"] = "\$text = 'Napaka pri prijavi. Morda še nimate gesla? Dobite ga na izposoji!';";
+$trans["Invalid Logon. Maybe you don't have a Secret Word? Please ask the Staff!"] = "\$text = 'Napaka pri prijavi. Morda še nimate gesla? Dobite ga pri knjižničarju!';";
 
 #****************************************************************************
 #*  Translation text for page mbr_account.php
